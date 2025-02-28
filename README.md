@@ -12,7 +12,8 @@ This repository serves as a collection of exploratory data analysis (EDA) and in
 # Datasets Explored
 
 ## BIOSCAN-30k
-![bioscan]("assets/bioscan-explore.gif")
+
+<img src="assets/illusion_animals_initial_explore.gif" width="70%">
 
 - **Name**: BIOSCAN-30k (subset of BIOSCAN-5M)
 
@@ -36,7 +37,7 @@ This repository serves as a collection of exploratory data analysis (EDA) and in
 
 ## ImageNet-D
 
-![imagenetd]("assets/imagenet-d.gif")
+<img src="assets/imagenet-d-embeddings.gif" width="70%">
 
 - **Name**: ImageNet-D
 
@@ -60,7 +61,8 @@ This repository serves as a collection of exploratory data analysis (EDA) and in
   - Hardness analysis
 
 ## Illusion Animals
-![illusion_animals]("assets/illusion_animals_initial_explore.gif")
+
+<img src="assets/illusion_animals_initial_explore.gif" width="70%">
 
 - **Name**: Illusion Animals
 
