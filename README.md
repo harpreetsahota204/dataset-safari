@@ -9,9 +9,10 @@ Exploring interesting datasets from AI conferences in 2024. This repository cont
 
 This repository serves as a collection of exploratory data analysis (EDA) and insights from notable datasets introduced in AI conferences during 2024. Each dataset exploration includes basic statistics, visualizations, and key findings.
 
-## Datasets Explored
+# Datasets Explored
 
-### BIOSCAN-30k
+## BIOSCAN-30k
+<img src="assets/bioscan-explore.gif">
 
 - **Name**: BIOSCAN-30k (subset of BIOSCAN-5M)
 
@@ -33,7 +34,9 @@ This repository serves as a collection of exploratory data analysis (EDA) and in
   - Uniqueness and representativeness metrics
 
 
-### ImageNet-D
+## ImageNet-D
+
+<img src="assets/imagenet-d.gif">
 
 - **Name**: ImageNet-D
 
@@ -56,7 +59,8 @@ This repository serves as a collection of exploratory data analysis (EDA) and in
   - Model performance comparison
   - Hardness analysis
 
-### Illusion Animals
+## Illusion Animals
+<img src="assets/illusion_animals_initial_explore.gif">
 
 - **Name**: Illusion Animals
 
